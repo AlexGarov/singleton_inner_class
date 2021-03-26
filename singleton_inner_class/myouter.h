@@ -18,6 +18,7 @@ private:
 	};
 
 public:
+std::string path;
 	myouter(int);
 	~myouter();
 };
